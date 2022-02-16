@@ -1,0 +1,11 @@
+class UIConst:
+    DOWNBLUE = '#6593A6'
+    BLUE = 'rgb(35, 57, 150)'
+    SKYBLUE = '#809ead'
+    YELLOW = '#F2CF63'
+    ORANGE = 'rgb(230, 98, 32)'
+    WHITE = '#FFFFF0'
+    NAVY = '#58595B'
+    MODERN_BLUE = 'rgb(58, 134, 255)'
+    DEFAULT_FONT = '맑은 고딕'
+    DOTALK_ICON = 'icons/do_talk.png'
